@@ -1,5 +1,4 @@
-# ASCII-Vision
-A real-time ASCII camera and image converter built with C++ and OpenCV.
+
 # ASCII Vision
 
 A real-time Computer Vision project built with **C++** and **OpenCV** that converts images, videos, and live webcam feeds into ASCII art.
